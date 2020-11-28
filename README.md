@@ -1,2 +1,2 @@
-# bullet_and_walls
-change_the_color_walls_and_bullet
+# p5.play-boilerplate
+Boiler plate for p5.play
